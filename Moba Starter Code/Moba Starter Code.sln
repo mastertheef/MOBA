@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moba Starter Code", "Moba Starter Code.csproj", "{FACBF8D6-5CA8-1E17-BF19-03D80FA83841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moba Starter Code.Editor.Plugins", "Moba Starter Code.Editor.Plugins.csproj", "{DCDE2C47-3017-29D7-1D7A-04F87B617F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACBF8D6-5CA8-1E17-BF19-03D80FA83841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACBF8D6-5CA8-1E17-BF19-03D80FA83841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACBF8D6-5CA8-1E17-BF19-03D80FA83841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACBF8D6-5CA8-1E17-BF19-03D80FA83841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDE2C47-3017-29D7-1D7A-04F87B617F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE2C47-3017-29D7-1D7A-04F87B617F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE2C47-3017-29D7-1D7A-04F87B617F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE2C47-3017-29D7-1D7A-04F87B617F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
